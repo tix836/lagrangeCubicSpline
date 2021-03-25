@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Anton\source\repos\splineOld\splineOld\Source.cpp(119,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Anton\source\repos\splineOld\splineOld\Source.cpp(117): warning C4715: Spline: значение возвращается не при всех путях выполнения
+  splineOld.vcxproj -> C:\Users\Anton\source\repos\splineOld\Debug\splineOld.exe
